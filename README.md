@@ -57,7 +57,6 @@ Platforms commonly used in universities and academic institutions.
 Platforms and tools enabling integration, customization, and extensibility.
 
 - [Moodle Web Services](https://docs.moodle.org/dev/Web_services) — API layer for integrating Moodle with external systems.
-- [Open edX APIs](https://open.edx.org/) — APIs for building custom learning experiences.
 - [LearnWorlds](https://www.learnworlds.com/) — LMS platform with developer and integration capabilities.
 
 ## Related Awesome Lists
